@@ -68,7 +68,7 @@ body {
   color: #fff;
 }
 header {
-  background: url(../img/header-fon.png);
+  background: url(../img/header-fon.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -298,7 +298,7 @@ header {
   font-family: 'Raleway', sans-serif;
 }
 .discover {
-	background: url(../img/discover.png);
+	background: url(../img/discover.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -306,7 +306,8 @@ header {
 	background-color: #f9f9f9;
 }
 .discover__inner {
-	padding-top: 145px;
+  padding-top: 145px;
+  padding-bottom: 30px;
 }
 .discover__inner h3 {
 	color: #fff;
@@ -432,7 +433,7 @@ header {
 	width: 100%;
 }
 .about {
-	background: url(../img/about.png);
+	background: url(../img/about.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

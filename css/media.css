@@ -216,6 +216,9 @@
   .tasty {
     margin-top: 0;
   }
+  .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+    bottom: 25%;
+  }
 }
 @media (max-width: 540px) {
   .services__item {
